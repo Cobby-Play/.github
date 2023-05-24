@@ -92,15 +92,18 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
 
 ## Notion
 
-https://waiting-watch-1fa.notion.site/B201-0e05540135ed4f48ab9a8844889c1806
+[Notion](https://waiting-watch-1fa.notion.site/B201-0e05540135ed4f48ab9a8844889c1806)
+
 <br/>
 
 ## Mock-up
 
-https://www.figma.com/file/6cTU8M06FBDVJAaHRHIY4y/%EC%9E%90%EC%9C%A8PJT-%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84?type=design&node-id=0-1&t=tS9eERR4GlOfUhCS-0
+[Figma](https://www.figma.com/file/6cTU8M06FBDVJAaHRHIY4y/%EC%9E%90%EC%9C%A8PJT-%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84?type=design&node-id=0-1&t=tS9eERR4GlOfUhCS-0) 
+
 <br/>
 
 ## ERD
 
 ![erd](Image/ERD.png)
+
 <br/>
