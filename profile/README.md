@@ -46,7 +46,7 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
 
 <br>
 
-# 🔧주요 기술 스택
+# 주요 기술 스택🔧
 
 ![Architecture](./Image/Achitecture.png)
 
