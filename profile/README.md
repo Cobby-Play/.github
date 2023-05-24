@@ -48,10 +48,10 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
 
 ![Architecture](./Image/Achitecture.png)
 
-|## Frontend | ## Backend | ## Database | ## Infra |
+| Frontend |  Backend |  Database |  Infra |
 |:--:|:--:|:--:|:--:|
-| ![title](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)<br/>
-  ![title](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white)<br/>
+| ![title](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
+  ![title](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white)
   ![title](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=Javascript&logoColor=black)<br/>
   ![title](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=white)<br/>
   ![title](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white) <br/>
