@@ -5,9 +5,9 @@
 ## 📌Index
 
 1. [Cobby - Github with Cobby 서비스 소개](#Cobby---Github-with-Cobby-서비스-소개)
-2. [주요 기술 스택](#주요-기술-스택)
-3. [개발 기간 및 팀원 역할 소개](#개발-기간-및-팀원-역할-소개)
-4. [프로젝트 산출물](#프로젝트-산출물)
+2. [주요 기술 스택](#:wrench:-주요-기술-스택)
+3. [개발 기간 및 팀원 역할 소개](#:two_men_holding_hands:-개발-기간-및-팀원-역할-소개)
+4. [프로젝트 산출물](#:books:-프로젝트-산출물)
 
 # Cobby - Github with Cobby 서비스 소개
 
@@ -46,7 +46,7 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
 
 <br>
 
-# 주요 기술 스택
+# :wrench: 주요 기술 스택
 
 ![Architecture](./Image/Achitecture.png)
 
@@ -80,7 +80,7 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
 <br/>
 
 
-# 개발 기간 및 팀원 역할 소개
+# :two_men_holding_hands: 개발 기간 및 팀원 역할 소개
 
 ## 개발 기간
 
@@ -90,7 +90,7 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
 
 ![Team](Image/팀원소개.png)
 
-# 프로젝트 산출물
+# :books: 프로젝트 산출물
 
 ## Notion
 
