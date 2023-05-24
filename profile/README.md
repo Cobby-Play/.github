@@ -1,6 +1,4 @@
-# B201
-
-## FINAL 자율 프로젝트
+# Cobby - Github with Cobby
 
 ## 📌Index
 
