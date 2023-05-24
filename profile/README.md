@@ -48,6 +48,8 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
 
 ![Architecture](./Image/Achitecture.png)
 
+---
+
 ## Frontend
 
 ![title](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)<br/>
@@ -59,7 +61,7 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
   ![title](https://img.shields.io/badge/-Node.js-339933?&logo=nodedotjs&logoColor=white)<br/>
   ![title](https://img.shields.io/badge/-Typescript-3178C6?&logo=typescript&logoColor=white)<br/> 
 
-<br/>
+---
 
 ## Backend
   ![title](https://img.shields.io/badge/-Java-gray?&logo=openjdk&logoColor=white)<br/>
@@ -72,7 +74,7 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
    ![title](https://img.shields.io/badge/-JPA-007396?logo=jpa&logoColor=white)<br/>
    ![title](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)<br/>
 
-<br/>
+---
 
 ## Database 
 
@@ -81,7 +83,7 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
  ![title](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)<br/>
  ![title](https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazonaws&logoColor=white)<br/>
 
-<br/>
+---
 
 ## Infra
 
@@ -95,7 +97,7 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
   ![title](https://img.shields.io/badge/-NGINX-009639?&logo=nginx&logoColor=white)<br/>
   ![title](https://img.shields.io/badge/-Ubuntu-E95420?&logo=ubuntu&logoColor=white)<br/>
 
-<br/>
+---
 
 
 # :two_men_holding_hands: 개발 기간 및 팀원 역할 소개
