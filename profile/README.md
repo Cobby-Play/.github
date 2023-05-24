@@ -48,15 +48,27 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
 
 ![Architecture](./Image/Achitecture.png)
 
-## Frontend
-  ![title](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)<br/>
+|## Frontend | ## Backend | ## Database | ## Infra |
+|:--:|:--:|:--:|:--:|
+|  ![title](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)<br/>
   ![title](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white)<br/>
   ![title](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=Javascript&logoColor=black)<br/>
   ![title](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=white)<br/>
   ![title](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white) <br/>
   ![title](https://img.shields.io/badge/-Next.js-black?&logo=nextdotjs&logoColor=white) <br/>
   ![title](https://img.shields.io/badge/-Node.js-339933?&logo=nodedotjs&logoColor=white)<br/>
-  ![title](https://img.shields.io/badge/-Typescript-3178C6?&logo=typescript&logoColor=white)<br/>
+  ![title](https://img.shields.io/badge/-Typescript-3178C6?&logo=typescript&logoColor=white)<br/>|||  ![title](https://img.shields.io/badge/-AWS-232F3E?&logo=amazonaws&logoColor=white)<br/>
+  ![title](https://img.shields.io/badge/-EC2-FF9900?&logo=amazonec2&logoColor=white)<br/>
+  ![title](https://img.shields.io/badge/-EKS-FF9900?&logo=amazoneks&logoColor=white)<br/>
+  ![title](https://img.shields.io/badge/-S3-569A31?&logo=amazons3&logoColor=white)<br/>
+  ![title](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white)<br/>
+  ![title](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=white)<br/>
+  ![title](https://img.shields.io/badge/-Jenkins-D24939?&logo=jenkins&logoColor=white)<br/>
+  ![title](https://img.shields.io/badge/-NGINX-009639?&logo=nginx&logoColor=white)<br/>
+  ![title](https://img.shields.io/badge/-Ubuntu-E95420?&logo=ubuntu&logoColor=white)<br/>|
+
+## Frontend
+
 
 <br/>
 
@@ -69,15 +81,7 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
 <br/>
 
 ## Infra
-  ![title](https://img.shields.io/badge/-AWS-232F3E?&logo=amazonaws&logoColor=white)<br/>
-  ![title](https://img.shields.io/badge/-EC2-FF9900?&logo=amazonec2&logoColor=white)<br/>
-  ![title](https://img.shields.io/badge/-EKS-FF9900?&logo=amazoneks&logoColor=white)<br/>
-  ![title](https://img.shields.io/badge/-S3-569A31?&logo=amazons3&logoColor=white)<br/>
-  ![title](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white)<br/>
-  ![title](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=white)<br/>
-  ![title](https://img.shields.io/badge/-Jenkins-D24939?&logo=jenkins&logoColor=white)<br/>
-  ![title](https://img.shields.io/badge/-NGINX-009639?&logo=nginx&logoColor=white)<br/>
-  ![title](https://img.shields.io/badge/-Ubuntu-E95420?&logo=ubuntu&logoColor=white)<br/>
+
 
 <br/>
 
