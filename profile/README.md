@@ -6,7 +6,7 @@
 
 1. [Cobby - Github with Cobby 서비스 소개](#Cobby---Github-with-Cobby-서비스-소개)
 2. [주요 기술 스택](#-:wrench:-주요-기술-스택)
-3. [개발 기간 및 팀원 역할 소개](#-:two_men_holding_hands:-개발-기간-및-팀원-역할-소개)
+3. [개발 기간 및 팀원 역할 소개](#two_men_holding_hands-개발-기간-및-팀원-역할-소개)
 4. [프로젝트 산출물](#-:books:-프로젝트-산출물)
 
 # Cobby - Github with Cobby 서비스 소개
