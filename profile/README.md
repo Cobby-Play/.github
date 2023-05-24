@@ -40,7 +40,7 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
 ### ✔ 마이페이지
 
 - README BADGE export 기능과 코비 서비스 정보가 기입되어 있습니다.<br/>
-  ![Architecture](Image/마이페이지.gif)
+  ![Architecture](./Image/마이페이지.gif)
 
 <br>
 
