@@ -5,7 +5,7 @@
 ## 📌Index
 
 1. [Cobby - Github with Cobby 서비스 소개](#Cobby---Github-with-Cobby-서비스-소개)
-2. [주요 기술 스택](#주요-기술-스택)
+2. [주요 기술 스택](#🔧-주요-기술-스택)
 3. [개발 기간 및 팀원 역할 소개](#👩‍👩‍개발-기간-및-팀원-역할-소개)
 4. [프로젝트 산출물](#📚프로젝트-산출물)
 
@@ -46,7 +46,7 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
 
 <br>
 
-# 주요 기술 스택
+# 🔧 주요 기술 스택
 
 ![Architecture](./Image/Achitecture.png)
 
