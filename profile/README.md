@@ -20,22 +20,22 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
 ### ✔ 로그인페이지
 
 - Github 소셜로그인을 통해 로그인합니다.<br/>
-  ![Architecture](Image/로그인.gif)
+  ![Architecture](./Image/로그인.gif)
 
 ### ✔ 메인페이지
 
 - 닉네임, 레벨, 경험치, 커밋관련내역, 코비 서비스 연속 출석일수 등의 정보를 조회할 수 있습니다.<br/>
-  ![Architecture](Image/메인페이지녹화.gif)
+  ![Architecture](./Image/메인페이지녹화.gif)
 
 ### ✔ 코스튬페이지
 
 - HEAD, BODY, EFFECT 세가지 유형의 아이템을 착용할 수 있습니다.<br/>
-  ![Architecture](Image/옷장.gif)
+  ![Architecture](./Image/옷장.gif)
 
 ### ✔ 퀘스트페이지
 
 - 각 조건에 맞는 퀘스트를 달성하면 해당하는 에셋을 얻을 수 있습니다.<br/>
-  ![Architecture](Image/퀘스트.gif)
+  ![Architecture](./Image/퀘스트.gif)
 
 ### ✔ 마이페이지
 
@@ -48,7 +48,7 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
 
 # 🔧주요 기술 스택
 
-![Architecture](Image/Achitecture.png)
+![Architecture](./Image/Achitecture.png)
 
 ## Frontend
   ![title](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)<br/>
