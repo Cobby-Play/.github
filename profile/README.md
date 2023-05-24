@@ -65,7 +65,21 @@ Cobby - Github with Cobby는 깃 커밋내역을 통해 귀여운 캐릭터 Cobb
   ![title](https://img.shields.io/badge/-Java-gray?&logo=openjdk&logoColor=white)<br/>
   ![title](https://img.shields.io/badge/-SpringBoot-6DB33F?&logo=springboot&logoColor=white)<br/>
   ![title](https://img.shields.io/badge/-ApacheKafka-231F20?&logo=apachekafka&logoColor=white)<br/>
+   ![title](https://img.shields.io/badge/-JSON%20Web%20Token-000000?logo=jsonwebtokens)<br/>
+   ![title](https://img.shields.io/badge/-Spring%20Security-6DB33F?logo=spring&logoColor=white)<br/>
+   ![title](https://img.shields.io/badge/-OAuth2-000000?logo=oauth&logoColor=white)<br/>
+   ![title](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white)<br/>
+   ![title](https://img.shields.io/badge/-JPA-007396?logo=jpa&logoColor=white)<br/>
+   ![title](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)<br/>
 
+<br/>
+
+## Database 
+
+![title](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)<br/>
+ ![title](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)<br/>
+ ![title](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)<br/>
+ ![title](https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazonaws&logoColor=white)<br/>
 
 <br/>
 
